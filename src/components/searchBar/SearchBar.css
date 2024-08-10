@@ -1,0 +1,12 @@
+.search-bar-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.search-bar {
+  border: 2px solid black;
+  border-radius: 25px;
+  outline: none;
+  padding: 0.5rem 1rem;
+}
