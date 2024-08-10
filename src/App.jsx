@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
 
+// Component imports
+import Header from "./components/header/Header";
+
 function App() {
   return (
     <>
-      <div className="container">
-        <h1>MusicMaster</h1>
-        <p>Welcome to the new home!</p>
-      </div>
+      <Header />
     </>
   );
 }
